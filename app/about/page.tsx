@@ -23,7 +23,7 @@ const About = () => {
       
       <h2 className="text-2xl font-semibold mt-8 mb-4">Meet the Author</h2>
       <p className="text-lg leading-relaxed">
-        Hi, I'm <strong>Malaika</strong>, the creator of <strong><span className='text-teal-500'>V</span>ibrant <span className='text-teal-500'>V</span>ibes</strong>. I'm passionate about healthy living, personal development, and the simple joys of life. Through this blog, I aim to share my journey, experiences, and knowledge to inspire you on your path to a happier, healthier lifestyle.
+        Hi, I am  <strong>Malaika</strong>, the creator of <strong><span className='text-teal-500'>V</span>ibrant <span className='text-teal-500'>V</span>ibes</strong>. I am passionate about healthy living, personal development, and the simple joys of life. Through this blog, I aim to share my journey, experiences, and knowledge to inspire you on your path to a happier, healthier lifestyle.
       </p>
     </div>
   );
